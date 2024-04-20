@@ -27,7 +27,9 @@ Libft is a collection of standard C functions, along with some additional utilit
 ### Character Classification
 
 - `int ft_isalpha(int c)`: Checks for an alphabetic character.
-- `int ft_isdigit(int c)`: Checks for a digit.
+- `int ft_isdigit(int c)`: Checks for a digit.## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 - `int ft_isalnum(int c)`: Checks for an alphanumeric character.
 
 ## Usage
@@ -39,6 +41,3 @@ To use this library, clone the repository and compile it using the provided Make
 
 Contributions and improvements are welcome! If you find any bugs or have suggestions for new functions, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
